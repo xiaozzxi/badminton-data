@@ -1,0 +1,1367 @@
+{
+  "format": "badminton-split-v2",
+  "exported": "2026-08-24",
+  "updatedAt": 1787572257455,
+  "roster": [
+    {
+      "id": "n41v9fp",
+      "name": "Mi"
+    },
+    {
+      "id": "swss1kw",
+      "name": "Haoxi"
+    },
+    {
+      "id": "9r5zlnr",
+      "name": "Zhe"
+    },
+    {
+      "id": "2xvmsrc",
+      "name": "Haonan"
+    },
+    {
+      "id": "8zz1j2h",
+      "name": "Linyu"
+    },
+    {
+      "id": "i4i0kek",
+      "name": "Liangyu"
+    },
+    {
+      "id": "equx68w",
+      "name": "Bingo"
+    },
+    {
+      "id": "q2bt45c",
+      "name": "Jianhong"
+    },
+    {
+      "id": "bj1x5xc",
+      "name": "Kaili"
+    },
+    {
+      "id": "tvj79lj",
+      "name": "Jason"
+    },
+    {
+      "id": "wl26f44",
+      "name": "Em"
+    },
+    {
+      "id": "492n668",
+      "name": "Martha"
+    },
+    {
+      "id": "uzhtofm",
+      "name": "Jinhong"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "qpal4rd",
+      "date": "2026-08-05",
+      "total": 785,
+      "heads": 4,
+      "step": 1,
+      "names": {
+        "n41v9fp": "Mi",
+        "swss1kw": "Haoxi",
+        "9r5zlnr": "Zhe",
+        "2xvmsrc": "Haonan"
+      },
+      "expenses": [
+        {
+          "id": "ghrcvln",
+          "label": "Shuttles ×4 (AS30)",
+          "kind": "total",
+          "split": "even",
+          "payer": "2xvmsrc",
+          "shares": [
+            "n41v9fp",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc"
+          ],
+          "amount": 785,
+          "qty": 4,
+          "unit": 0,
+          "hours": {}
+        }
+      ],
+      "rows": [
+        {
+          "id": "2xvmsrc",
+          "paid": 785,
+          "owed": 196,
+          "r": 589,
+          "hrs": 0
+        },
+        {
+          "id": "swss1kw",
+          "paid": 0,
+          "owed": 196,
+          "r": -196,
+          "hrs": 0
+        },
+        {
+          "id": "9r5zlnr",
+          "paid": 0,
+          "owed": 196,
+          "r": -196,
+          "hrs": 0
+        },
+        {
+          "id": "n41v9fp",
+          "paid": 0,
+          "owed": 197,
+          "r": -197,
+          "hrs": 0
+        }
+      ],
+      "tx": [
+        {
+          "from": "n41v9fp",
+          "to": "2xvmsrc",
+          "amt": 197,
+          "paid": true
+        },
+        {
+          "from": "swss1kw",
+          "to": "2xvmsrc",
+          "amt": 196,
+          "paid": true
+        },
+        {
+          "from": "9r5zlnr",
+          "to": "2xvmsrc",
+          "amt": 196,
+          "paid": true
+        }
+      ],
+      "settled": true
+    },
+    {
+      "id": "ef9o4ov",
+      "date": "2026-08-07",
+      "total": 2677,
+      "heads": 5,
+      "step": 1,
+      "names": {
+        "n41v9fp": "Mi",
+        "swss1kw": "Haoxi",
+        "9r5zlnr": "Zhe",
+        "2xvmsrc": "Haonan",
+        "i4i0kek": "Liangyu"
+      },
+      "expenses": [
+        {
+          "id": "3dneua6",
+          "label": "Shuttles ×6 (AS30)",
+          "kind": "total",
+          "split": "even",
+          "payer": "2xvmsrc",
+          "shares": [
+            "n41v9fp",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc",
+            "i4i0kek"
+          ],
+          "amount": 1177,
+          "qty": 6,
+          "unit": 0,
+          "hours": {}
+        },
+        {
+          "id": "iac0g60",
+          "label": "Court hire",
+          "kind": "total",
+          "split": "even",
+          "payer": "n41v9fp",
+          "shares": [
+            "n41v9fp",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc",
+            "i4i0kek"
+          ],
+          "amount": 1500,
+          "qty": 0,
+          "unit": 0,
+          "hours": {}
+        }
+      ],
+      "rows": [
+        {
+          "id": "n41v9fp",
+          "paid": 1500,
+          "owed": 536,
+          "r": 964,
+          "hrs": 0
+        },
+        {
+          "id": "2xvmsrc",
+          "paid": 1177,
+          "owed": 535,
+          "r": 642,
+          "hrs": 0
+        },
+        {
+          "id": "9r5zlnr",
+          "paid": 0,
+          "owed": 535,
+          "r": -535,
+          "hrs": 0
+        },
+        {
+          "id": "i4i0kek",
+          "paid": 0,
+          "owed": 535,
+          "r": -535,
+          "hrs": 0
+        },
+        {
+          "id": "swss1kw",
+          "paid": 0,
+          "owed": 536,
+          "r": -536,
+          "hrs": 0
+        }
+      ],
+      "tx": [
+        {
+          "from": "swss1kw",
+          "to": "n41v9fp",
+          "amt": 536,
+          "paid": true
+        },
+        {
+          "from": "9r5zlnr",
+          "to": "n41v9fp",
+          "amt": 428,
+          "paid": true
+        },
+        {
+          "from": "9r5zlnr",
+          "to": "2xvmsrc",
+          "amt": 107,
+          "paid": true
+        },
+        {
+          "from": "i4i0kek",
+          "to": "2xvmsrc",
+          "amt": 535,
+          "paid": true
+        }
+      ],
+      "settled": true
+    },
+    {
+      "id": "7vxhhja",
+      "date": "2026-08-09",
+      "total": 2285,
+      "heads": 5,
+      "step": 1,
+      "names": {
+        "n41v9fp": "Mi",
+        "8zz1j2h": "Linyu",
+        "swss1kw": "Haoxi",
+        "9r5zlnr": "Zhe",
+        "2xvmsrc": "Haonan"
+      },
+      "expenses": [
+        {
+          "id": "8gl0w4l",
+          "label": "Shuttles ×4 (AS30)",
+          "kind": "total",
+          "split": "even",
+          "payer": "2xvmsrc",
+          "shares": [
+            "n41v9fp",
+            "8zz1j2h",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc"
+          ],
+          "amount": 785,
+          "qty": 4,
+          "unit": 0,
+          "hours": {}
+        },
+        {
+          "id": "c581k3o",
+          "label": "Court hire",
+          "kind": "total",
+          "split": "even",
+          "payer": "n41v9fp",
+          "shares": [
+            "n41v9fp",
+            "8zz1j2h",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc"
+          ],
+          "amount": 1500,
+          "qty": 0,
+          "unit": 0,
+          "hours": {}
+        }
+      ],
+      "rows": [
+        {
+          "id": "n41v9fp",
+          "paid": 1500,
+          "owed": 457,
+          "r": 1043,
+          "hrs": 0
+        },
+        {
+          "id": "2xvmsrc",
+          "paid": 785,
+          "owed": 457,
+          "r": 328,
+          "hrs": 0
+        },
+        {
+          "id": "8zz1j2h",
+          "paid": 0,
+          "owed": 457,
+          "r": -457,
+          "hrs": 0
+        },
+        {
+          "id": "swss1kw",
+          "paid": 0,
+          "owed": 457,
+          "r": -457,
+          "hrs": 0
+        },
+        {
+          "id": "9r5zlnr",
+          "paid": 0,
+          "owed": 457,
+          "r": -457,
+          "hrs": 0
+        }
+      ],
+      "tx": [
+        {
+          "from": "8zz1j2h",
+          "to": "n41v9fp",
+          "amt": 457,
+          "paid": true
+        },
+        {
+          "from": "swss1kw",
+          "to": "n41v9fp",
+          "amt": 457,
+          "paid": true
+        },
+        {
+          "from": "9r5zlnr",
+          "to": "n41v9fp",
+          "amt": 129,
+          "paid": true
+        },
+        {
+          "from": "9r5zlnr",
+          "to": "2xvmsrc",
+          "amt": 328,
+          "paid": true
+        }
+      ],
+      "settled": true
+    },
+    {
+      "id": "jk5gfyg",
+      "date": "2026-08-10",
+      "total": 2481,
+      "heads": 5,
+      "step": 1,
+      "names": {
+        "n41v9fp": "Mi",
+        "8zz1j2h": "Linyu",
+        "swss1kw": "Haoxi",
+        "9r5zlnr": "Zhe",
+        "2xvmsrc": "Haonan"
+      },
+      "expenses": [
+        {
+          "id": "5rygcf5",
+          "label": "Shuttles ×5 (AS30)",
+          "kind": "total",
+          "split": "even",
+          "payer": "2xvmsrc",
+          "shares": [
+            "n41v9fp",
+            "8zz1j2h",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc"
+          ],
+          "amount": 981,
+          "qty": 5,
+          "unit": 0,
+          "hours": {}
+        },
+        {
+          "id": "6abfhcy",
+          "label": "Court hire",
+          "kind": "total",
+          "split": "even",
+          "payer": "n41v9fp",
+          "shares": [
+            "n41v9fp",
+            "8zz1j2h",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc"
+          ],
+          "amount": 1500,
+          "qty": 0,
+          "unit": 0,
+          "hours": {}
+        }
+      ],
+      "rows": [
+        {
+          "id": "n41v9fp",
+          "paid": 1500,
+          "owed": 497,
+          "r": 1003,
+          "hrs": 0
+        },
+        {
+          "id": "2xvmsrc",
+          "paid": 981,
+          "owed": 496,
+          "r": 485,
+          "hrs": 0
+        },
+        {
+          "id": "8zz1j2h",
+          "paid": 0,
+          "owed": 496,
+          "r": -496,
+          "hrs": 0
+        },
+        {
+          "id": "swss1kw",
+          "paid": 0,
+          "owed": 496,
+          "r": -496,
+          "hrs": 0
+        },
+        {
+          "id": "9r5zlnr",
+          "paid": 0,
+          "owed": 496,
+          "r": -496,
+          "hrs": 0
+        }
+      ],
+      "tx": [
+        {
+          "from": "8zz1j2h",
+          "to": "n41v9fp",
+          "amt": 496,
+          "paid": true
+        },
+        {
+          "from": "swss1kw",
+          "to": "n41v9fp",
+          "amt": 496,
+          "paid": true
+        },
+        {
+          "from": "9r5zlnr",
+          "to": "n41v9fp",
+          "amt": 11,
+          "paid": true
+        },
+        {
+          "from": "9r5zlnr",
+          "to": "2xvmsrc",
+          "amt": 485,
+          "paid": true
+        }
+      ],
+      "settled": true
+    },
+    {
+      "id": "86u0rrd",
+      "date": "2026-08-17",
+      "total": 2677,
+      "heads": 4,
+      "step": 1,
+      "names": {
+        "n41v9fp": "Mi",
+        "swss1kw": "Haoxi",
+        "9r5zlnr": "Zhe",
+        "2xvmsrc": "Haonan"
+      },
+      "expenses": [
+        {
+          "id": "pker8m7",
+          "label": "Shuttles ×6 (AS30)",
+          "kind": "total",
+          "split": "even",
+          "payer": "2xvmsrc",
+          "shares": [
+            "n41v9fp",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc"
+          ],
+          "amount": 1177,
+          "qty": 6,
+          "unit": 0,
+          "hours": {}
+        },
+        {
+          "id": "oqfv827",
+          "label": "Court hire",
+          "kind": "total",
+          "split": "even",
+          "payer": "swss1kw",
+          "shares": [
+            "n41v9fp",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc"
+          ],
+          "amount": 1500,
+          "qty": 0,
+          "unit": 0,
+          "hours": {}
+        }
+      ],
+      "rows": [
+        {
+          "id": "swss1kw",
+          "paid": 1500,
+          "owed": 669,
+          "r": 831,
+          "hrs": 0
+        },
+        {
+          "id": "2xvmsrc",
+          "paid": 1177,
+          "owed": 669,
+          "r": 508,
+          "hrs": 0
+        },
+        {
+          "id": "9r5zlnr",
+          "paid": 0,
+          "owed": 669,
+          "r": -669,
+          "hrs": 0
+        },
+        {
+          "id": "n41v9fp",
+          "paid": 0,
+          "owed": 670,
+          "r": -670,
+          "hrs": 0
+        }
+      ],
+      "tx": [
+        {
+          "from": "n41v9fp",
+          "to": "swss1kw",
+          "amt": 670,
+          "paid": true
+        },
+        {
+          "from": "9r5zlnr",
+          "to": "swss1kw",
+          "amt": 161,
+          "paid": true
+        },
+        {
+          "from": "9r5zlnr",
+          "to": "2xvmsrc",
+          "amt": 508,
+          "paid": true
+        }
+      ],
+      "settled": true
+    },
+    {
+      "id": "mf8ge3t",
+      "date": "2026-08-17",
+      "total": 392,
+      "heads": 2,
+      "step": 1,
+      "names": {
+        "swss1kw": "Haoxi",
+        "2xvmsrc": "Haonan"
+      },
+      "expenses": [
+        {
+          "id": "v4fe1bv",
+          "label": "Shuttles ×2 (AS30)",
+          "kind": "total",
+          "split": "even",
+          "payer": "2xvmsrc",
+          "shares": [
+            "swss1kw",
+            "2xvmsrc"
+          ],
+          "amount": 392,
+          "qty": 2,
+          "unit": 0,
+          "hours": {}
+        }
+      ],
+      "rows": [
+        {
+          "id": "2xvmsrc",
+          "paid": 392,
+          "owed": 196,
+          "r": 196,
+          "hrs": 0
+        },
+        {
+          "id": "swss1kw",
+          "paid": 0,
+          "owed": 196,
+          "r": -196,
+          "hrs": 0
+        }
+      ],
+      "tx": [
+        {
+          "from": "swss1kw",
+          "to": "2xvmsrc",
+          "amt": 196,
+          "paid": true
+        }
+      ],
+      "settled": true
+    },
+    {
+      "id": "4dt6adx",
+      "date": "2026-08-20",
+      "total": 2677,
+      "heads": 5,
+      "step": 1,
+      "names": {
+        "n41v9fp": "Mi",
+        "swss1kw": "Haoxi",
+        "9r5zlnr": "Zhe",
+        "2xvmsrc": "Haonan",
+        "equx68w": "Bingo"
+      },
+      "expenses": [
+        {
+          "id": "ml53pkj",
+          "label": "Shuttles ×6 (AS30)",
+          "kind": "total",
+          "split": "even",
+          "payer": "2xvmsrc",
+          "shares": [
+            "n41v9fp",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc",
+            "equx68w"
+          ],
+          "amount": 1177,
+          "qty": 6,
+          "unit": 0,
+          "hours": {}
+        },
+        {
+          "id": "2x6n9i3",
+          "label": "Court hire",
+          "kind": "total",
+          "split": "even",
+          "payer": "swss1kw",
+          "shares": [
+            "n41v9fp",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc",
+            "equx68w"
+          ],
+          "amount": 1500,
+          "qty": 0,
+          "unit": 0,
+          "hours": {}
+        }
+      ],
+      "rows": [
+        {
+          "id": "swss1kw",
+          "paid": 1500,
+          "owed": 536,
+          "r": 964,
+          "hrs": 0
+        },
+        {
+          "id": "2xvmsrc",
+          "paid": 1177,
+          "owed": 535,
+          "r": 642,
+          "hrs": 0
+        },
+        {
+          "id": "9r5zlnr",
+          "paid": 0,
+          "owed": 535,
+          "r": -535,
+          "hrs": 0
+        },
+        {
+          "id": "equx68w",
+          "paid": 0,
+          "owed": 535,
+          "r": -535,
+          "hrs": 0
+        },
+        {
+          "id": "n41v9fp",
+          "paid": 0,
+          "owed": 536,
+          "r": -536,
+          "hrs": 0
+        }
+      ],
+      "tx": [
+        {
+          "from": "n41v9fp",
+          "to": "swss1kw",
+          "amt": 536,
+          "paid": true
+        },
+        {
+          "from": "9r5zlnr",
+          "to": "swss1kw",
+          "amt": 428,
+          "paid": true
+        },
+        {
+          "from": "9r5zlnr",
+          "to": "2xvmsrc",
+          "amt": 107,
+          "paid": true
+        },
+        {
+          "from": "equx68w",
+          "to": "2xvmsrc",
+          "amt": 535,
+          "paid": true
+        }
+      ],
+      "settled": true
+    },
+    {
+      "id": "tqdo9h7",
+      "date": "2026-08-21",
+      "total": 2481,
+      "heads": 4,
+      "step": 1,
+      "names": {
+        "n41v9fp": "Mi",
+        "9r5zlnr": "Zhe",
+        "2xvmsrc": "Haonan",
+        "8zz1j2h": "Linyu"
+      },
+      "expenses": [
+        {
+          "id": "lrl4nxs",
+          "label": "Shuttles ×5 (AS30)",
+          "kind": "total",
+          "split": "even",
+          "payer": "2xvmsrc",
+          "shares": [
+            "n41v9fp",
+            "9r5zlnr",
+            "2xvmsrc",
+            "8zz1j2h"
+          ],
+          "amount": 981,
+          "qty": 5,
+          "unit": 0,
+          "hours": {}
+        },
+        {
+          "id": "jn7lust",
+          "label": "Court hire",
+          "kind": "total",
+          "split": "even",
+          "payer": "n41v9fp",
+          "shares": [
+            "n41v9fp",
+            "9r5zlnr",
+            "2xvmsrc",
+            "8zz1j2h"
+          ],
+          "amount": 1500,
+          "qty": 0,
+          "unit": 0,
+          "hours": {}
+        }
+      ],
+      "rows": [
+        {
+          "id": "n41v9fp",
+          "paid": 1500,
+          "owed": 621,
+          "r": 879,
+          "hrs": 0
+        },
+        {
+          "id": "2xvmsrc",
+          "paid": 981,
+          "owed": 620,
+          "r": 361,
+          "hrs": 0
+        },
+        {
+          "id": "9r5zlnr",
+          "paid": 0,
+          "owed": 620,
+          "r": -620,
+          "hrs": 0
+        },
+        {
+          "id": "8zz1j2h",
+          "paid": 0,
+          "owed": 620,
+          "r": -620,
+          "hrs": 0
+        }
+      ],
+      "tx": [
+        {
+          "from": "9r5zlnr",
+          "to": "n41v9fp",
+          "amt": 620,
+          "paid": true
+        },
+        {
+          "from": "8zz1j2h",
+          "to": "n41v9fp",
+          "amt": 259,
+          "paid": true
+        },
+        {
+          "from": "8zz1j2h",
+          "to": "2xvmsrc",
+          "amt": 361,
+          "paid": true
+        }
+      ],
+      "settled": true
+    },
+    {
+      "id": "8rastzn",
+      "date": "2026-08-22",
+      "total": 2989,
+      "heads": 6,
+      "step": 1,
+      "names": {
+        "n41v9fp": "Mi",
+        "swss1kw": "Haoxi",
+        "9r5zlnr": "Zhe",
+        "2xvmsrc": "Haonan",
+        "8zz1j2h": "Linyu",
+        "q2bt45c": "Jianhong"
+      },
+      "expenses": [
+        {
+          "id": "thmtleh",
+          "label": "Shuttles ×7 (Hongchao)",
+          "kind": "total",
+          "split": "even",
+          "payer": "q2bt45c",
+          "shares": [
+            "n41v9fp",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc",
+            "8zz1j2h",
+            "q2bt45c"
+          ],
+          "amount": 1489,
+          "qty": 7,
+          "unit": 0,
+          "hours": {}
+        },
+        {
+          "id": "6n4xnmf",
+          "label": "Court hire",
+          "kind": "total",
+          "split": "even",
+          "payer": "swss1kw",
+          "shares": [
+            "n41v9fp",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc",
+            "8zz1j2h",
+            "q2bt45c"
+          ],
+          "amount": 1500,
+          "qty": 0,
+          "unit": 0,
+          "hours": {}
+        }
+      ],
+      "rows": [
+        {
+          "id": "swss1kw",
+          "paid": 1500,
+          "owed": 498,
+          "r": 1002,
+          "hrs": 0
+        },
+        {
+          "id": "q2bt45c",
+          "paid": 1489,
+          "owed": 498,
+          "r": 991,
+          "hrs": 0
+        },
+        {
+          "id": "9r5zlnr",
+          "paid": 0,
+          "owed": 498,
+          "r": -498,
+          "hrs": 0
+        },
+        {
+          "id": "2xvmsrc",
+          "paid": 0,
+          "owed": 498,
+          "r": -498,
+          "hrs": 0
+        },
+        {
+          "id": "8zz1j2h",
+          "paid": 0,
+          "owed": 498,
+          "r": -498,
+          "hrs": 0
+        },
+        {
+          "id": "n41v9fp",
+          "paid": 0,
+          "owed": 499,
+          "r": -499,
+          "hrs": 0
+        }
+      ],
+      "tx": [
+        {
+          "from": "n41v9fp",
+          "to": "swss1kw",
+          "amt": 499,
+          "paid": true
+        },
+        {
+          "from": "9r5zlnr",
+          "to": "swss1kw",
+          "amt": 498,
+          "paid": true
+        },
+        {
+          "from": "2xvmsrc",
+          "to": "swss1kw",
+          "amt": 5,
+          "paid": true
+        },
+        {
+          "from": "2xvmsrc",
+          "to": "q2bt45c",
+          "amt": 493,
+          "paid": true
+        },
+        {
+          "from": "8zz1j2h",
+          "to": "q2bt45c",
+          "amt": 498,
+          "paid": true
+        }
+      ],
+      "settled": true
+    },
+    {
+      "id": "e1s9wud",
+      "date": "2026-08-23",
+      "total": 1388,
+      "heads": 6,
+      "step": 1,
+      "names": {
+        "n41v9fp": "Mi",
+        "swss1kw": "Haoxi",
+        "9r5zlnr": "Zhe",
+        "8zz1j2h": "Linyu",
+        "2xvmsrc": "Haonan",
+        "q2bt45c": "Jianhong"
+      },
+      "expenses": [
+        {
+          "id": "jhcj3y4",
+          "label": "Shuttles ×3 (Hongchao)",
+          "kind": "total",
+          "split": "even",
+          "payer": "q2bt45c",
+          "shares": [
+            "n41v9fp",
+            "swss1kw",
+            "9r5zlnr",
+            "8zz1j2h",
+            "2xvmsrc",
+            "q2bt45c"
+          ],
+          "amount": 638,
+          "qty": 3,
+          "unit": 0,
+          "hours": {}
+        },
+        {
+          "id": "jpuz4ub",
+          "label": "Court hire",
+          "kind": "total",
+          "split": "even",
+          "payer": "n41v9fp",
+          "shares": [
+            "n41v9fp",
+            "swss1kw",
+            "9r5zlnr",
+            "8zz1j2h",
+            "2xvmsrc",
+            "q2bt45c"
+          ],
+          "amount": 750,
+          "qty": 0,
+          "unit": 0,
+          "hours": {}
+        }
+      ],
+      "rows": [
+        {
+          "id": "n41v9fp",
+          "paid": 750,
+          "owed": 232,
+          "r": 518,
+          "hrs": 0
+        },
+        {
+          "id": "q2bt45c",
+          "paid": 638,
+          "owed": 231,
+          "r": 407,
+          "hrs": 0
+        },
+        {
+          "id": "9r5zlnr",
+          "paid": 0,
+          "owed": 231,
+          "r": -231,
+          "hrs": 0
+        },
+        {
+          "id": "8zz1j2h",
+          "paid": 0,
+          "owed": 231,
+          "r": -231,
+          "hrs": 0
+        },
+        {
+          "id": "2xvmsrc",
+          "paid": 0,
+          "owed": 231,
+          "r": -231,
+          "hrs": 0
+        },
+        {
+          "id": "swss1kw",
+          "paid": 0,
+          "owed": 232,
+          "r": -232,
+          "hrs": 0
+        }
+      ],
+      "tx": [
+        {
+          "from": "swss1kw",
+          "to": "n41v9fp",
+          "amt": 232,
+          "paid": true
+        },
+        {
+          "from": "9r5zlnr",
+          "to": "n41v9fp",
+          "amt": 231,
+          "paid": true
+        },
+        {
+          "from": "8zz1j2h",
+          "to": "n41v9fp",
+          "amt": 55,
+          "paid": true
+        },
+        {
+          "from": "8zz1j2h",
+          "to": "q2bt45c",
+          "amt": 176,
+          "paid": true
+        },
+        {
+          "from": "2xvmsrc",
+          "to": "q2bt45c",
+          "amt": 231,
+          "paid": true
+        }
+      ],
+      "settled": true
+    },
+    {
+      "id": "ttj90j4",
+      "date": "2026-08-23",
+      "total": 6615,
+      "heads": 11,
+      "step": 1,
+      "names": {
+        "n41v9fp": "Mi",
+        "swss1kw": "Haoxi",
+        "9r5zlnr": "Zhe",
+        "2xvmsrc": "Haonan",
+        "8zz1j2h": "Linyu",
+        "q2bt45c": "Jianhong",
+        "bj1x5xc": "Kaili",
+        "tvj79lj": "Jason",
+        "wl26f44": "Em",
+        "492n668": "Martha",
+        "uzhtofm": "Jinhong"
+      },
+      "expenses": [
+        {
+          "id": "key38zt",
+          "label": "Shuttles ×17 (Hongchao)",
+          "kind": "total",
+          "split": "even",
+          "payer": "q2bt45c",
+          "shares": [
+            "n41v9fp",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc",
+            "8zz1j2h",
+            "q2bt45c",
+            "bj1x5xc",
+            "tvj79lj",
+            "wl26f44",
+            "492n668",
+            "uzhtofm"
+          ],
+          "amount": 3615,
+          "qty": 17,
+          "unit": 0,
+          "hours": {}
+        },
+        {
+          "id": "53l8lge",
+          "label": "Court hire (court 1)",
+          "kind": "total",
+          "split": "even",
+          "payer": "wl26f44",
+          "shares": [
+            "n41v9fp",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc",
+            "8zz1j2h",
+            "q2bt45c",
+            "bj1x5xc",
+            "tvj79lj",
+            "wl26f44",
+            "492n668",
+            "uzhtofm"
+          ],
+          "amount": 1500,
+          "qty": 0,
+          "unit": 0,
+          "hours": {}
+        },
+        {
+          "id": "a4ywstk",
+          "label": "Court hire (court 2)",
+          "kind": "total",
+          "split": "even",
+          "payer": "swss1kw",
+          "shares": [
+            "n41v9fp",
+            "swss1kw",
+            "9r5zlnr",
+            "2xvmsrc",
+            "8zz1j2h",
+            "q2bt45c",
+            "bj1x5xc",
+            "tvj79lj",
+            "wl26f44",
+            "492n668",
+            "uzhtofm"
+          ],
+          "amount": 1500,
+          "qty": 0,
+          "unit": 0,
+          "hours": {}
+        }
+      ],
+      "rows": [
+        {
+          "id": "q2bt45c",
+          "paid": 3615,
+          "owed": 601,
+          "r": 3014,
+          "hrs": 0
+        },
+        {
+          "id": "wl26f44",
+          "paid": 1500,
+          "owed": 600,
+          "r": 900,
+          "hrs": 0
+        },
+        {
+          "id": "swss1kw",
+          "paid": 1500,
+          "owed": 603,
+          "r": 897,
+          "hrs": 0
+        },
+        {
+          "id": "tvj79lj",
+          "paid": 0,
+          "owed": 600,
+          "r": -600,
+          "hrs": 0
+        },
+        {
+          "id": "492n668",
+          "paid": 0,
+          "owed": 600,
+          "r": -600,
+          "hrs": 0
+        },
+        {
+          "id": "uzhtofm",
+          "paid": 0,
+          "owed": 600,
+          "r": -600,
+          "hrs": 0
+        },
+        {
+          "id": "8zz1j2h",
+          "paid": 0,
+          "owed": 601,
+          "r": -601,
+          "hrs": 0
+        },
+        {
+          "id": "bj1x5xc",
+          "paid": 0,
+          "owed": 601,
+          "r": -601,
+          "hrs": 0
+        },
+        {
+          "id": "n41v9fp",
+          "paid": 0,
+          "owed": 603,
+          "r": -603,
+          "hrs": 0
+        },
+        {
+          "id": "9r5zlnr",
+          "paid": 0,
+          "owed": 603,
+          "r": -603,
+          "hrs": 0
+        },
+        {
+          "id": "2xvmsrc",
+          "paid": 0,
+          "owed": 603,
+          "r": -603,
+          "hrs": 0
+        }
+      ],
+      "tx": [
+        {
+          "from": "n41v9fp",
+          "to": "q2bt45c",
+          "amt": 603,
+          "paid": true
+        },
+        {
+          "from": "9r5zlnr",
+          "to": "q2bt45c",
+          "amt": 603,
+          "paid": true
+        },
+        {
+          "from": "2xvmsrc",
+          "to": "q2bt45c",
+          "amt": 603,
+          "paid": true
+        },
+        {
+          "from": "8zz1j2h",
+          "to": "q2bt45c",
+          "amt": 601,
+          "paid": true
+        },
+        {
+          "from": "bj1x5xc",
+          "to": "q2bt45c",
+          "amt": 601,
+          "paid": true
+        },
+        {
+          "from": "tvj79lj",
+          "to": "q2bt45c",
+          "amt": 3,
+          "paid": true
+        },
+        {
+          "from": "tvj79lj",
+          "to": "wl26f44",
+          "amt": 597,
+          "paid": true
+        },
+        {
+          "from": "492n668",
+          "to": "wl26f44",
+          "amt": 303,
+          "paid": true
+        },
+        {
+          "from": "492n668",
+          "to": "swss1kw",
+          "amt": 297,
+          "paid": true
+        },
+        {
+          "from": "uzhtofm",
+          "to": "swss1kw",
+          "amt": 600,
+          "paid": false
+        }
+      ],
+      "settled": false
+    }
+  ],
+  "present": [],
+  "expenses": [],
+  "date": "2026-08-24",
+  "unitPrice": 250,
+  "step": 10,
+  "defaultHours": 2
+}
