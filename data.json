@@ -1,7 +1,7 @@
 {
   "format": "badminton-split-v2",
-  "exported": "2026-08-24",
-  "updatedAt": 1787576130121,
+  "exported": "2026-08-27",
+  "updatedAt": 1787826315965,
   "roster": [
     {
       "id": "n41v9fp",
@@ -1358,10 +1358,50 @@
       "settled": true
     }
   ],
-  "present": [],
-  "expenses": [],
-  "date": "2026-08-24",
-  "unitPrice": 250,
+  "present": [
+    "swss1kw",
+    "9r5zlnr",
+    "2xvmsrc",
+    "q2bt45c"
+  ],
+  "expenses": [
+    {
+      "id": "3sml61g",
+      "label": "Court hire",
+      "kind": "total",
+      "split": "even",
+      "payer": "swss1kw",
+      "shares": [
+        "swss1kw",
+        "9r5zlnr",
+        "2xvmsrc",
+        "q2bt45c"
+      ],
+      "amount": 1500,
+      "qty": 0,
+      "unit": 0,
+      "hours": {}
+    },
+    {
+      "id": "eqds41n",
+      "label": "Shuttles",
+      "kind": "unit",
+      "split": "even",
+      "payer": "q2bt45c",
+      "shares": [
+        "swss1kw",
+        "9r5zlnr",
+        "2xvmsrc",
+        "q2bt45c"
+      ],
+      "amount": 0,
+      "qty": 7,
+      "unit": 213,
+      "hours": {}
+    }
+  ],
+  "date": "2026-08-26",
+  "unitPrice": 213,
   "step": 10,
   "defaultHours": 2
 }
