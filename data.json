@@ -1,7 +1,7 @@
 {
   "format": "badminton-split-v2",
-  "exported": "2026-08-27",
-  "updatedAt": 1787868435438,
+  "exported": "2026-08-31",
+  "updatedAt": 1788168564236,
   "roster": [
     {
       "id": "n41v9fp",
@@ -54,6 +54,10 @@
     {
       "id": "uzhtofm",
       "name": "Jinhong"
+    },
+    {
+      "id": "lpgwld3",
+      "name": "haigang"
     }
   ],
   "sessions": [
@@ -1642,20 +1646,466 @@
         }
       ],
       "settled": false
+    },
+    {
+      "id": "ym9c51b",
+      "date": "2026-08-27",
+      "total": 5982,
+      "heads": 9,
+      "step": 10,
+      "names": {
+        "n41v9fp": "Mi",
+        "9r5zlnr": "Zhe",
+        "2xvmsrc": "Haonan",
+        "i4i0kek": "Liangyu",
+        "equx68w": "Bingo",
+        "q2bt45c": "Jianhong",
+        "lpgwld3": "haigang",
+        "8zz1j2h": "Linyu",
+        "bj1x5xc": "Kaili"
+      },
+      "expenses": [
+        {
+          "id": "zafg7bb",
+          "label": "15",
+          "kind": "total",
+          "split": "time",
+          "payer": "n41v9fp",
+          "shares": [
+            "n41v9fp",
+            "9r5zlnr",
+            "2xvmsrc",
+            "i4i0kek",
+            "equx68w",
+            "q2bt45c",
+            "lpgwld3",
+            "8zz1j2h",
+            "bj1x5xc"
+          ],
+          "amount": 1500,
+          "qty": 0,
+          "unit": 0,
+          "hours": {
+            "n41v9fp": 2,
+            "9r5zlnr": 2,
+            "2xvmsrc": 4,
+            "i4i0kek": 2,
+            "equx68w": 2,
+            "q2bt45c": 2,
+            "lpgwld3": 2,
+            "8zz1j2h": 2,
+            "bj1x5xc": 2
+          }
+        },
+        {
+          "id": "9gn95r8",
+          "label": "Cost",
+          "kind": "total",
+          "split": "time",
+          "payer": "2xvmsrc",
+          "shares": [
+            "n41v9fp",
+            "9r5zlnr",
+            "2xvmsrc",
+            "i4i0kek",
+            "equx68w",
+            "q2bt45c",
+            "lpgwld3",
+            "8zz1j2h",
+            "bj1x5xc"
+          ],
+          "amount": 1500,
+          "qty": 0,
+          "unit": 0,
+          "hours": {
+            "n41v9fp": 2,
+            "9r5zlnr": 2,
+            "2xvmsrc": 4,
+            "i4i0kek": 2,
+            "equx68w": 2,
+            "q2bt45c": 2,
+            "lpgwld3": 2,
+            "8zz1j2h": 2,
+            "bj1x5xc": 2
+          }
+        },
+        {
+          "id": "xy74el4",
+          "label": "Shuttles",
+          "kind": "unit",
+          "split": "time",
+          "payer": "q2bt45c",
+          "shares": [
+            "n41v9fp",
+            "9r5zlnr",
+            "2xvmsrc",
+            "i4i0kek",
+            "equx68w",
+            "q2bt45c",
+            "lpgwld3",
+            "8zz1j2h",
+            "bj1x5xc"
+          ],
+          "amount": 0,
+          "qty": 14,
+          "unit": 213,
+          "hours": {
+            "n41v9fp": 2,
+            "9r5zlnr": 2,
+            "2xvmsrc": 4,
+            "i4i0kek": 2,
+            "equx68w": 2,
+            "q2bt45c": 2,
+            "lpgwld3": 2,
+            "8zz1j2h": 2,
+            "bj1x5xc": 2
+          }
+        }
+      ],
+      "rows": [
+        {
+          "id": "q2bt45c",
+          "paid": 2982,
+          "owed": 598,
+          "r": 2400,
+          "hrs": 2
+        },
+        {
+          "id": "n41v9fp",
+          "paid": 1500,
+          "owed": 599,
+          "r": 900,
+          "hrs": 2
+        },
+        {
+          "id": "2xvmsrc",
+          "paid": 1500,
+          "owed": 1197,
+          "r": 300,
+          "hrs": 4
+        },
+        {
+          "id": "9r5zlnr",
+          "paid": 0,
+          "owed": 598,
+          "r": -600,
+          "hrs": 2
+        },
+        {
+          "id": "i4i0kek",
+          "paid": 0,
+          "owed": 598,
+          "r": -600,
+          "hrs": 2
+        },
+        {
+          "id": "equx68w",
+          "paid": 0,
+          "owed": 598,
+          "r": -600,
+          "hrs": 2
+        },
+        {
+          "id": "lpgwld3",
+          "paid": 0,
+          "owed": 598,
+          "r": -600,
+          "hrs": 2
+        },
+        {
+          "id": "8zz1j2h",
+          "paid": 0,
+          "owed": 598,
+          "r": -600,
+          "hrs": 2
+        },
+        {
+          "id": "bj1x5xc",
+          "paid": 0,
+          "owed": 598,
+          "r": -600,
+          "hrs": 2
+        }
+      ],
+      "tx": [
+        {
+          "from": "9r5zlnr",
+          "to": "q2bt45c",
+          "amt": 600,
+          "paid": false
+        },
+        {
+          "from": "i4i0kek",
+          "to": "q2bt45c",
+          "amt": 600,
+          "paid": false
+        },
+        {
+          "from": "equx68w",
+          "to": "q2bt45c",
+          "amt": 600,
+          "paid": false
+        },
+        {
+          "from": "lpgwld3",
+          "to": "q2bt45c",
+          "amt": 600,
+          "paid": false
+        },
+        {
+          "from": "8zz1j2h",
+          "to": "n41v9fp",
+          "amt": 600,
+          "paid": false
+        },
+        {
+          "from": "bj1x5xc",
+          "to": "n41v9fp",
+          "amt": 300,
+          "paid": false
+        },
+        {
+          "from": "bj1x5xc",
+          "to": "2xvmsrc",
+          "amt": 300,
+          "paid": false
+        }
+      ],
+      "settled": false
+    },
+    {
+      "id": "c5zsib2",
+      "date": "2026-08-31",
+      "total": 2778,
+      "heads": 4,
+      "step": 10,
+      "names": {
+        "n41v9fp": "Mi",
+        "8zz1j2h": "Linyu",
+        "i4i0kek": "Liangyu",
+        "q2bt45c": "Jianhong"
+      },
+      "expenses": [
+        {
+          "id": "jurke6y",
+          "label": "Court hire",
+          "kind": "total",
+          "split": "even",
+          "payer": "n41v9fp",
+          "shares": [
+            "n41v9fp",
+            "8zz1j2h",
+            "i4i0kek",
+            "q2bt45c"
+          ],
+          "amount": 1500,
+          "qty": 0,
+          "unit": 0,
+          "hours": {}
+        },
+        {
+          "id": "l5j8rrm",
+          "label": "Shuttles",
+          "kind": "unit",
+          "split": "even",
+          "payer": "q2bt45c",
+          "shares": [
+            "n41v9fp",
+            "8zz1j2h",
+            "i4i0kek",
+            "q2bt45c"
+          ],
+          "amount": 0,
+          "qty": 6,
+          "unit": 213,
+          "hours": {}
+        }
+      ],
+      "rows": [
+        {
+          "id": "n41v9fp",
+          "paid": 1500,
+          "owed": 695,
+          "r": 810,
+          "hrs": 0
+        },
+        {
+          "id": "q2bt45c",
+          "paid": 1278,
+          "owed": 694,
+          "r": 580,
+          "hrs": 0
+        },
+        {
+          "id": "i4i0kek",
+          "paid": 0,
+          "owed": 694,
+          "r": -690,
+          "hrs": 0
+        },
+        {
+          "id": "8zz1j2h",
+          "paid": 0,
+          "owed": 695,
+          "r": -700,
+          "hrs": 0
+        }
+      ],
+      "tx": [
+        {
+          "from": "8zz1j2h",
+          "to": "n41v9fp",
+          "amt": 700,
+          "paid": false
+        },
+        {
+          "from": "i4i0kek",
+          "to": "n41v9fp",
+          "amt": 110,
+          "paid": false
+        },
+        {
+          "from": "i4i0kek",
+          "to": "q2bt45c",
+          "amt": 580,
+          "paid": false
+        }
+      ],
+      "settled": false
+    },
+    {
+      "id": "4hr9xg4",
+      "date": "2026-08-29",
+      "total": 2220,
+      "heads": 5,
+      "step": 10,
+      "names": {
+        "n41v9fp": "Mi",
+        "8zz1j2h": "Linyu",
+        "i4i0kek": "Liangyu",
+        "9r5zlnr": "Zhe",
+        "2xvmsrc": "Haonan"
+      },
+      "expenses": [
+        {
+          "id": "0cbp2t0",
+          "label": "Court hire",
+          "kind": "total",
+          "split": "time",
+          "payer": "n41v9fp",
+          "shares": [
+            "n41v9fp",
+            "8zz1j2h",
+            "i4i0kek",
+            "9r5zlnr",
+            "2xvmsrc"
+          ],
+          "amount": 1500,
+          "qty": 0,
+          "unit": 0,
+          "hours": {
+            "n41v9fp": 0,
+            "8zz1j2h": 2,
+            "i4i0kek": 2,
+            "9r5zlnr": 2,
+            "2xvmsrc": 5
+          }
+        },
+        {
+          "id": "q5bttcq",
+          "label": "Shuttles",
+          "kind": "unit",
+          "split": "time",
+          "payer": "2xvmsrc",
+          "shares": [
+            "n41v9fp",
+            "8zz1j2h",
+            "i4i0kek",
+            "9r5zlnr",
+            "2xvmsrc"
+          ],
+          "amount": 0,
+          "qty": 4,
+          "unit": 180,
+          "hours": {
+            "n41v9fp": 0,
+            "8zz1j2h": 2,
+            "i4i0kek": 2,
+            "9r5zlnr": 2,
+            "2xvmsrc": 5
+          }
+        }
+      ],
+      "rows": [
+        {
+          "id": "n41v9fp",
+          "paid": 1500,
+          "owed": 0,
+          "r": 1490,
+          "hrs": 0
+        },
+        {
+          "id": "2xvmsrc",
+          "paid": 720,
+          "owed": 1009,
+          "r": -290,
+          "hrs": 5
+        },
+        {
+          "id": "8zz1j2h",
+          "paid": 0,
+          "owed": 404,
+          "r": -400,
+          "hrs": 2
+        },
+        {
+          "id": "i4i0kek",
+          "paid": 0,
+          "owed": 404,
+          "r": -400,
+          "hrs": 2
+        },
+        {
+          "id": "9r5zlnr",
+          "paid": 0,
+          "owed": 403,
+          "r": -400,
+          "hrs": 2
+        }
+      ],
+      "tx": [
+        {
+          "from": "8zz1j2h",
+          "to": "n41v9fp",
+          "amt": 400,
+          "paid": false
+        },
+        {
+          "from": "i4i0kek",
+          "to": "n41v9fp",
+          "amt": 400,
+          "paid": false
+        },
+        {
+          "from": "9r5zlnr",
+          "to": "n41v9fp",
+          "amt": 400,
+          "paid": false
+        },
+        {
+          "from": "2xvmsrc",
+          "to": "n41v9fp",
+          "amt": 290,
+          "paid": false
+        }
+      ],
+      "settled": false
     }
   ],
-  "present": [
-    "n41v9fp",
-    "swss1kw",
-    "9r5zlnr",
-    "2xvmsrc",
-    "i4i0kek",
-    "equx68w",
-    "q2bt45c"
-  ],
+  "present": [],
   "expenses": [],
-  "date": "2026-08-27",
-  "unitPrice": 213,
+  "date": "2026-08-31",
+  "unitPrice": 180,
   "step": 10,
-  "defaultHours": 6
+  "defaultHours": 5
 }
