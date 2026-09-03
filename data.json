@@ -1,7 +1,7 @@
 {
   "format": "badminton-split-v2",
-  "exported": "2026-08-31",
-  "updatedAt": 1788168564236,
+  "exported": "2026-09-03",
+  "updatedAt": 1788433731096,
   "roster": [
     {
       "id": "n41v9fp",
@@ -1444,22 +1444,22 @@
           "from": "9r5zlnr",
           "to": "swss1kw",
           "amt": 750,
-          "paid": false
+          "paid": true
         },
         {
           "from": "2xvmsrc",
           "to": "swss1kw",
           "amt": 10,
-          "paid": false
+          "paid": true
         },
         {
           "from": "2xvmsrc",
           "to": "q2bt45c",
           "amt": 740,
-          "paid": false
+          "paid": true
         }
       ],
-      "settled": false
+      "settled": true
     },
     {
       "id": "pnybx57",
@@ -1618,34 +1618,34 @@
           "from": "n41v9fp",
           "to": "swss1kw",
           "amt": 500,
-          "paid": false
+          "paid": true
         },
         {
           "from": "9r5zlnr",
           "to": "swss1kw",
           "amt": 500,
-          "paid": false
+          "paid": true
         },
         {
           "from": "i4i0kek",
           "to": "swss1kw",
           "amt": 10,
-          "paid": false
+          "paid": true
         },
         {
           "from": "i4i0kek",
           "to": "q2bt45c",
           "amt": 490,
-          "paid": false
+          "paid": true
         },
         {
           "from": "equx68w",
           "to": "q2bt45c",
           "amt": 500,
-          "paid": false
+          "paid": true
         }
       ],
-      "settled": false
+      "settled": true
     },
     {
       "id": "ym9c51b",
@@ -1832,46 +1832,46 @@
           "from": "9r5zlnr",
           "to": "q2bt45c",
           "amt": 600,
-          "paid": false
+          "paid": true
         },
         {
           "from": "i4i0kek",
           "to": "q2bt45c",
           "amt": 600,
-          "paid": false
+          "paid": true
         },
         {
           "from": "equx68w",
           "to": "q2bt45c",
           "amt": 600,
-          "paid": false
+          "paid": true
         },
         {
           "from": "lpgwld3",
           "to": "q2bt45c",
           "amt": 600,
-          "paid": false
+          "paid": true
         },
         {
           "from": "8zz1j2h",
           "to": "n41v9fp",
           "amt": 600,
-          "paid": false
+          "paid": true
         },
         {
           "from": "bj1x5xc",
           "to": "n41v9fp",
           "amt": 300,
-          "paid": false
+          "paid": true
         },
         {
           "from": "bj1x5xc",
           "to": "2xvmsrc",
           "amt": 300,
-          "paid": false
+          "paid": true
         }
       ],
-      "settled": false
+      "settled": true
     },
     {
       "id": "c5zsib2",
@@ -1956,22 +1956,22 @@
           "from": "8zz1j2h",
           "to": "n41v9fp",
           "amt": 700,
-          "paid": false
+          "paid": true
         },
         {
           "from": "i4i0kek",
           "to": "n41v9fp",
           "amt": 110,
-          "paid": false
+          "paid": true
         },
         {
           "from": "i4i0kek",
           "to": "q2bt45c",
           "amt": 580,
-          "paid": false
+          "paid": true
         }
       ],
-      "settled": false
+      "settled": true
     },
     {
       "id": "4hr9xg4",
@@ -2078,28 +2078,28 @@
           "from": "8zz1j2h",
           "to": "n41v9fp",
           "amt": 400,
-          "paid": false
+          "paid": true
         },
         {
           "from": "i4i0kek",
           "to": "n41v9fp",
           "amt": 400,
-          "paid": false
+          "paid": true
         },
         {
           "from": "9r5zlnr",
           "to": "n41v9fp",
           "amt": 400,
-          "paid": false
+          "paid": true
         },
         {
           "from": "2xvmsrc",
           "to": "n41v9fp",
           "amt": 290,
-          "paid": false
+          "paid": true
         }
       ],
-      "settled": false
+      "settled": true
     }
   ],
   "present": [],
