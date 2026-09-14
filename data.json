@@ -1,7 +1,7 @@
 {
   "format": "badminton-split-v2",
-  "exported": "2026-09-12",
-  "updatedAt": 1789224328376,
+  "exported": "2026-09-14",
+  "updatedAt": 1789383744522,
   "roster": [
     {
       "id": "n41v9fp",
@@ -3110,28 +3110,28 @@
           "from": "9r5zlnr",
           "to": "q2bt45c",
           "amt": 530,
-          "paid": false
+          "paid": true
         },
         {
           "from": "2xvmsrc",
           "to": "q2bt45c",
           "amt": 530,
-          "paid": false
+          "paid": true
         },
         {
           "from": "i4i0kek",
           "to": "q2bt45c",
           "amt": 100,
-          "paid": false
+          "paid": true
         },
         {
           "from": "i4i0kek",
           "to": "swss1kw",
           "amt": 430,
-          "paid": false
+          "paid": true
         }
       ],
-      "settled": false
+      "settled": true
     },
     {
       "id": "et651tu",
@@ -3236,34 +3236,34 @@
           "from": "9r5zlnr",
           "to": "swss1kw",
           "amt": 430,
-          "paid": false
+          "paid": true
         },
         {
           "from": "2xvmsrc",
           "to": "swss1kw",
           "amt": 430,
-          "paid": false
+          "paid": true
         },
         {
           "from": "equx68w",
           "to": "swss1kw",
           "amt": 190,
-          "paid": false
+          "paid": true
         },
         {
           "from": "equx68w",
           "to": "q2bt45c",
           "amt": 240,
-          "paid": false
+          "paid": true
         },
         {
           "from": "bj1x5xc",
           "to": "q2bt45c",
           "amt": 430,
-          "paid": false
+          "paid": true
         }
       ],
-      "settled": false
+      "settled": true
     },
     {
       "id": "f4f3jil",
@@ -3368,44 +3368,37 @@
           "from": "swss1kw",
           "to": "2xvmsrc",
           "amt": 370,
-          "paid": false
+          "paid": true
         },
         {
           "from": "9r5zlnr",
           "to": "2xvmsrc",
           "amt": 370,
-          "paid": false
+          "paid": true
         },
         {
           "from": "i4i0kek",
           "to": "2xvmsrc",
           "amt": 370,
-          "paid": false
+          "paid": true
         },
         {
           "from": "equx68w",
           "to": "2xvmsrc",
           "amt": 370,
-          "paid": false
+          "paid": true
         },
         {
           "from": "bj1x5xc",
           "to": "2xvmsrc",
           "amt": 370,
-          "paid": false
+          "paid": true
         }
       ],
-      "settled": false
+      "settled": true
     }
   ],
-  "present": [
-    "swss1kw",
-    "9r5zlnr",
-    "2xvmsrc",
-    "i4i0kek",
-    "equx68w",
-    "bj1x5xc"
-  ],
+  "present": [],
   "expenses": [],
   "date": "2026-09-12",
   "unitPrice": 183,
