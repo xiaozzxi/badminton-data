@@ -1,7 +1,7 @@
 {
   "format": "badminton-split-v2",
-  "exported": "2026-09-27",
-  "updatedAt": 1790529041189,
+  "exported": "2026-09-28",
+  "updatedAt": 1790606112944,
   "roster": [
     {
       "id": "n41v9fp",
@@ -3636,34 +3636,34 @@
           "from": "n41v9fp",
           "to": "2xvmsrc",
           "amt": 870,
-          "paid": false
+          "paid": true
         },
         {
           "from": "9r5zlnr",
           "to": "2xvmsrc",
           "amt": 870,
-          "paid": false
+          "paid": true
         },
         {
           "from": "i4i0kek",
           "to": "2xvmsrc",
           "amt": 870,
-          "paid": false
+          "paid": true
         },
         {
           "from": "q2bt45c",
           "to": "2xvmsrc",
           "amt": 240,
-          "paid": false
+          "paid": true
         },
         {
           "from": "q2bt45c",
           "to": "swss1kw",
           "amt": 630,
-          "paid": false
+          "paid": true
         }
       ],
-      "settled": false
+      "settled": true
     },
     {
       "id": "5mqtq22",
@@ -3768,44 +3768,37 @@
           "from": "swss1kw",
           "to": "n41v9fp",
           "amt": 480,
-          "paid": false
+          "paid": true
         },
         {
           "from": "9r5zlnr",
           "to": "n41v9fp",
           "amt": 480,
-          "paid": false
+          "paid": true
         },
         {
           "from": "2xvmsrc",
           "to": "n41v9fp",
           "amt": 480,
-          "paid": false
+          "paid": true
         },
         {
           "from": "q2bt45c",
           "to": "n41v9fp",
           "amt": 480,
-          "paid": false
+          "paid": true
         },
         {
           "from": "mzzgup6",
           "to": "n41v9fp",
           "amt": 480,
-          "paid": false
+          "paid": true
         }
       ],
-      "settled": false
+      "settled": true
     }
   ],
-  "present": [
-    "n41v9fp",
-    "swss1kw",
-    "9r5zlnr",
-    "2xvmsrc",
-    "q2bt45c",
-    "mzzgup6"
-  ],
+  "present": [],
   "expenses": [],
   "date": "2026-09-27",
   "unitPrice": 227,
